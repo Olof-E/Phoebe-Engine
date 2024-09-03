@@ -1,3 +1,6 @@
+use phoebe_engine::run;
+
+
 fn main() {
-    println!("Hello, world!");
+    run();
 }
