@@ -1,6 +1,6 @@
-use phoebe_engine::run;
+use engine::run;
 
 
 fn main() {
-    run();
+    let _ = run();
 }
